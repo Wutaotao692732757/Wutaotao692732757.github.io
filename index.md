@@ -1,11 +1,13 @@
-## Welcome to wutaotao app develop pages
+## Welcome to wutaotao app development pages
  
 
 # Our App Privacy Policy
  Update date: December 22, 2021
 The introduction
 We are a small team focused on small tools apps.
+
 Contact: 01308028@163.com 
+
 We fully understand the importance of personal information to you, so we attach great importance to the protection of your privacy and personal information, and we will treat and deal with the contents in this App Privacy Policy (hereinafter referred to as the "Policy") with a high degree of caution. This policy and you are using our products and/or services, you in the download, installation, start-up, browse, register, login, use our products and/or services (hereinafter generally referred to as the "use our products and/or services"), we will deal with it according to the agreement of this policy and protect your personal information, Therefore, we hope that you will carefully read and fully understand the full text of this Policy and make the choice you think appropriate in accordance with the guidelines of this Policy when necessary. We will try our best to explain the relevant technical terms involved in this policy to you in a concise manner for your understanding. We hereby kindly remind you that we have used bold font to remind you of the clauses in this policy which (may) have a significant impact on your rights and interests. Please pay attention to them.
 
 You should carefully read and fully understand this "App privacy policy after using our products and/or service, if you do not agree with the content of this policy, could lead to our normal operation of the product and/or services, or can't achieve our plans to reach the effect of service, you should immediately stop visit/use our products and/or services. By using or continuing to use the products and/or services provided by us, you fully understand and agree to all contents of this App Privacy Policy (including the updated version).
