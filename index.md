@@ -1,37 +1,100 @@
-## Welcome to GitHub Pages
+## Welcome to wutaotao app develop pages
+ 
 
-You can use the [editor on GitHub](https://github.com/Wutaotao692732757/Wutaotao692732757.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Our App Privacy Policy
+ Update date: December 22, 2021
+The introduction
+We are a small team focused on small tools apps.
+Contact: 01308028@163.com 
+We fully understand the importance of personal information to you, so we attach great importance to the protection of your privacy and personal information, and we will treat and deal with the contents in this App Privacy Policy (hereinafter referred to as the "Policy") with a high degree of caution. This policy and you are using our products and/or services, you in the download, installation, start-up, browse, register, login, use our products and/or services (hereinafter generally referred to as the "use our products and/or services"), we will deal with it according to the agreement of this policy and protect your personal information, Therefore, we hope that you will carefully read and fully understand the full text of this Policy and make the choice you think appropriate in accordance with the guidelines of this Policy when necessary. We will try our best to explain the relevant technical terms involved in this policy to you in a concise manner for your understanding. We hereby kindly remind you that we have used bold font to remind you of the clauses in this policy which (may) have a significant impact on your rights and interests. Please pay attention to them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You should carefully read and fully understand this "App privacy policy after using our products and/or service, if you do not agree with the content of this policy, could lead to our normal operation of the product and/or services, or can't achieve our plans to reach the effect of service, you should immediately stop visit/use our products and/or services. By using or continuing to use the products and/or services provided by us, you fully understand and agree to all contents of this App Privacy Policy (including the updated version).
 
-### Markdown
+If you have any questions or other relevant matters when reading this App Privacy Policy, you can email us at imhere@.com and we will answer you as soon as possible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+About us
 
-```markdown
-Syntax highlighted code block
+This App Privacy Policy will help you understand the following contents
 
-# Header 1
-## Header 2
-### Header 3
+I. Scope of application of this App Privacy Policy and meanings of relevant terms
+Ii. How do we collect and use your personal Information
+How do we use cookies and similar technologies
+Iv. How do we share, transfer and publicly disclose your personal Information
+V. Your right of control over personal Information
+Vi. How do we store and protect your Personal Information
+7. Protection of minors
+Viii. Updates to this App Privacy Policy
+How to contact us
+10 and other
 
-- Bulleted
-- List
+About us
 
-1. Numbered
-2. List
+(I) Scope of application of this App Privacy Policy
 
-**Bold** and _Italic_ and `Code` text
+"App privacy policy" to all of our products and/or service for the general content, when you use any of our products and/or services, this "App privacy policy that applies, whether the product and/or services set up separately privacy policies, or whether you are browsing user (visitors) or the logged in user registration. However, please note that this App Privacy Policy does not apply to information collected by third party services directly provided by third parties (including any third party websites) accessed through our products and/or services; Information collected through other companies and organizations that advertise services in our products and/or services; Our products and/or services may contain or link to information and/or third party services provided by third parties (including any third party websites) that are operated by third parties and your use of such information and/or services has nothing to do with us. We hereby kindly remind you that when you use third-party information and/or services, you should pay attention to and carefully read the relevant user agreement and privacy policy shown to you by the third party, and properly keep and provide your personal information with caution. This "App privacy policy only applies to your personal information, we have collected does not apply to any third party for your personal information collected, as well as services provided by any third party or third party information using rules, we to any third party collection, storage and use of your personal information behavior also does not assume any liability; Other products and/or services not provided to you by App.
 
-[Link](url) and ![Image](src)
-```
+(2) The meanings of related words
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Our products and/or services: including but not limited to, we provide software, website, services (including inbound service, for example: our advertising services and "through our service application or share" plug-ins, etc.) and contain related products or services, including but not limited to PC user terminal, mobile terminals, etc.
 
-### Jekyll Themes
+We need special remind you is: as a result of our products and services, to provide you with products and service content is also different, this "App privacy policy for App unification is general privacy policy, the policy agreed by the user rights and we provide the relevant information security protection measures are applicable to all of our products and services; The "Our Products and/or services" mentioned in this Policy and the type of your personal information collected by us may vary depending on the specific products/services (including client type, software version, etc.) you use, and the actual situation of the products/services you use shall prevail. For certain of our specific products/services, we will also develop specific privacy policies to more specifically explain to you our privacy rules and protection measures.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wutaotao692732757/Wutaotao692732757.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Personal information: refers to all kinds of information recorded electronically or in other ways that can independently or in combination with other information identify a specific natural person or reflect the activities of a specific natural person. This privacy policy involved in the personal information including personal information (including personal name, birthday, gender, address, personal phone number, mobile number, email), personal identification information (including id information), facial features, network identity information (including account name, account nickname, IP address, and the related password, the password, a password protection Case), personal property information (including trade and consumption records, wallet, coupons, energy, and other virtual property information), contacts information, personal access records (including web browsing history, software using the record, click on the record), personal common equipment information (including the hardware model, device MAC address list, the types of operating systems, software, the only equipment identification number (such as I MEI/ Android ID/IDFA/OPENUDID/GUID, SIM card IMSI information, etc.), personal location information (including precise location information).
 
-### Support or Contact
+Sensitive personal information: refers to personal information that, once disclosed, illegally provided or abused, may endanger personal and property safety, easily cause personal reputation, physical and mental health damage or discriminatory treatment. This privacy policy involved in the sensitive personal information including your property information (including trade and consumption records, the virtual property information such as the VIP member), facial features, personal identification information (including id information), network identity information (including system account, email address and password, password, password protection associated with the answer), and other information (including Address book information, personal phone number, mobile phone number, precise location information, shipping address, web browsing history). You agree that your sensitive personal information will be treated in accordance with the purposes and methods described in this App Privacy Policy. Compared with other personal information, sensitive personal information may have a greater impact on your personal rights and interests. We hereby kindly remind you to carefully consider before providing us with your sensitive personal information.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+De-identification/anonymization: technical processing of personal information so that the subject of personal information cannot be identified and the processed information cannot be restored
+
+Delete: Refers to the act of removing personal information from the system involved in daily service functions, leaving it unretrievable or inaccessible.
+
+Ii. How do we collect and use your personal Information
+
+You are using our products and/or services, we need some/may need to collect and use your personal information, we collect and use your personal information types include two types: the first: our products and/or services necessary for the core business functions of information: this information for the normal operation of products and/or services necessary information, you must authorize us to collect. If you refuse to provide, you will not be able to use our products and/or services normally; Second: Information that additional business functions may need to collect: This information is required by non-core business functions, and you can choose whether to authorize us to collect it or not. If you refuse to provide, additional business functions may not be realized or the effect we intend to achieve will not be affected, but your normal use of core business functions will not be affected.
+
+We need to remind you that as there are many products and services provided by us, the core business functions (including the types of personal information collected by us) may vary according to the content of the products/services. The specific products/services are subject to the actual provision of the products/services. In addition, you understand and agree that, we hope to provide you with products and services are perfect, so we will continue to improve our products and services, including technical, this means that we may often to launch a new business function, may need to collect new information or way or change personal information on purpose. If the function of a need to collect your personal information or not in the product/service explanations of the "App privacy policy", we will update by this policy, the prompt page, popups, interactive process, such as web site announcement to tell you the information's collection of purpose, content, way and scope, and agreed to offer you choose, Collected with your express consent. In this process, if you have any doubts or related matters, you can contact us through the way provided at the end of the article, we will answer for you as soon as possible.
+
+Specific service function scenarios include:
+
+(I) Video display and playback functions
+
+Our products and/or services provide you with video display and playback services. During this process, we need to collect some information about you, such as: Device model, device name, equipment, a unique identifier, browser type and language, operating system and application version, the login IP address, access networks, network quality data, mobile network information (including name of the operator), product version number, log information (such as operating logs, service logs). We collect such information to provide you with our core video display and playback services. If you refuse to provide such services, you may not be able to use our products and services.
+
+(2) Search function
+
+When you use the search function, we need to collect some of your information, such as: search words (including voice messages), browsing history and the number of interactions with them, etc. We collect this information in order to provide you with the content you need and the services you may be more interested in, as well as to improve our products and services.
+
+(iii) Registration and membership functions
+
+When you use the registration and membership functions, you need to complete a series of registration procedures according to our guidelines. After you become a registered (member) user, we will provide you with products and/or services exclusively for registered (member) users. During this process, you need to provide us with some information to identify your user, such as mobile phone number, verification code matching results, nickname, avatar, etc., and create account UID and password. We collect this information to complete the registration (member) process, provide you with continuous and stable registration (member) services, and protect the security of your registration (member) account. You should be aware that the matching result of your mobile phone number and verification code is your personal sensitive information. We collect such information to meet the requirements of relevant laws and regulations. If you refuse to provide such information, you may not be able to use our function, please consider carefully before providing it. At the same time, you can also fill in in the process of registration or subsequent use or supplement your information such as gender, birthday, character signature, if you do not fill in or subsequent delete, modification, such information may impact (including unable to get to) we provide you with more personalized service, but will not affect the normal use of registration and membership function.
+
+(4) Video and advertisement recommendation function
+
+When you use video and advertising recommendations, we need to collect some information about you in our products and/or services, such as: The videos you watch, the words you search (including voice messages), the number of times you browse and interact with content and advertisements, the people you like/share/comment/interact with, etc., we collect this information to recommend to you in real time better videos and advertising content that you may be more interested in, such as: Recommend mobile reviews, available, paid content that you might like.
+
+(5) Scanning two-dimensional code, taking photos and other functions
+
+When you use the functions of scanning TWO-DIMENSIONAL code, taking photos or videos, we need to collect some information about you, such as two-dimensional code information, pictures and videos. If you refuse to provide it, it will only prevent you from using the feature, but will not affect your normal use of other features of the Products and/or services. You can also enable or disable this permission at any time by using related functions. For example, the path of mobile App App is: Settings - Privacy - Privacy Settings - Camera Info. By enabling this permission, you authorize us to access, obtain, collect and use your personal information; When you cancel this authorization, we will no longer collect this information, and we will no longer be able to provide you with the above-mentioned corresponding services; However, unless you delete your personal information in accordance with the provisions of the law, your cancellation will not affect our processing and storage of personal information based on your previous authorization.
+
+(6) Customer service and after-sales functions
+
+When you contact our customer service or submit an after-sale application for our products and/or services, for the sake of your account and system security, we require you to provide relevant personal information to match your previously provided personal information to verify your user identity. After successful verification, we may need to collect information about your communication with us (e.g. Account information, order information, pictures/videos/text information provided by you to prove relevant facts, etc.), your contact information and records of your communication with us in order to keep evidence, including online communication records and telephone recordings, so as to solve problems for you and improve our products and/or services as soon as possible.
+
+(vii) Guarantee account security function
+
+We need to collect some of your information to ensure the security of your account and system when you use our products and/or services, and to help improve the security and reliability of our products and/or services, so as to prevent any behavior that may harm users, App and society, such as: Your login place, common device information, login IP address, product version number, language mode, browsing history, transaction information, member real-name authentication information, network usage habits, service fault information. We will be in accordance with the above information to comprehensive judgment you account number, account and transaction risk, authenticate, customer service,, fraud detection and prevention security event monitoring, archive and backup purposes, and in accordance with the law to take the necessary records, audit, analysis, disposal measures, once we detect the existence or suspected account security risks, We will use relevant information for security verification and risk elimination to ensure the security of the products and services we provide to you and protect your rights and interests. At the same time, when account or system security issues occur, we will collect this information to optimize our products and services.
+
+(8) Your personal information indirectly collected from an external third party
+
+You acknowledge that we cannot obtain your personal information provided by an external third party (App or your personal information collected by an external third party), nor will we use unconventional methods (such as malicious interference with App data of the other party) to obtain your personal information through software programs without authorization. If it is necessary for business development to collect your personal information indirectly (such as sharing) from a third party, and we directly or jointly provide you with products or services, Before collecting your personal information, we (or a third party) will make clear to you the source, type, purpose and method of use, business function and scope of authorization (if the way and scope of use are beyond the scope of your original authorization in a third party, we will ask for your authorization again). This scenario includes you through a third party account directly when they log on to our products and/or services, we get you from a third party authorized Shared account information (including the head, nickname), some of our products/services provided by the business partner, or when we are together with business partners to provide for the necessary/reasonable business smoothly, Part of your information indirectly collected by us from some of our business partners and information about you provided by other parties when they use our products and/or services (including published content related to you, including comments, updates, pictures, photos, videos and address books). In addition, before indirectly collecting your personal information, we will clearly require the third party to collect your personal information in written form (such as an agreement or a letter of commitment) with your express consent and inform you of the information to be shared. If sensitive information is involved, you need to confirm it again before providing it to us. In terms of agreement and other aspects, the third party is required to commit to the legality and compliance of the source of personal information. If the third party has any violation, we will explicitly require the other party to bear corresponding legal responsibility. At the same time, our professional security team will strengthen the security of personal information (including sensitive information reporting, sensitive information encrypted storage, access control, etc.). We will use no less protective means and measures to protect indirectly acquired personal information than we use to protect our users' personal information.
+
+(IX) Necessary for personalized recommendation/targeted push, maintenance/improvement of our products and/or services
+
+In order to provide you with better quality and more suitable for your products and/or services, let you have a better product and/or service experience or you agree to other USES, on the premise of comply with relevant laws and regulations, we could you provide to us or our authorized one product and/or services to collect your personal information, In the collection, analysis, or personalized way alone or combined with other information, in order to provide you with personalized service/directional push, we provide you with personalized information, in the case of your consent to share information with our partners so that they send you information about its products and services, etc., at the same time, We also provide you with an exit mechanism for targeted push. We may collect your search records, viewing history, collection records, viewing duration, order information, your online preference, interest preferences and other information when you use our products and/or services to form user portraits To help us better understand how you access and use our products and/or services, maintain and improve our products and/or services or otherwise respond to you. At the same time, we may collect other information about your use of our products and/or services for other reasonable purposes, such as: Questionnaire responses, relevant information obtained by us during your interaction with App companies or our partners shall be used for research and development and improvement, comprehensive statistics, data analysis or processing, for your participation in investigations related to our products/services, for other purposes agreed or authorized by you, or for other reasonable purposes. You may also request us to use the personal Information you provide and store in such products and/or services for other services provided by us or our partners if we provide such options.
+
+(X) Information about access to third-party SDK
+
+No SDK for collecting third information is used
+ 
+## Support or Contact
+githubID:Wutaotao692732757
+01308028@163.com 
